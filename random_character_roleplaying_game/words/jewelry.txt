@@ -1,0 +1,12 @@
+Necklace
+Pendant
+Choker
+Locket
+Earrings
+Ring
+Bracelet
+Belt
+Crown
+Diadem
+Hairpin
+Eyepiece

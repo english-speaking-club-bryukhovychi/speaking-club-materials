@@ -1,0 +1,33 @@
+Shirt
+Hoodie
+Sweater
+Jacket
+Coat
+Ball Mask
+Jeans
+Skirt
+Cloak
+Cape
+Gas Mask
+Space suite
+
+Scarf
+Gloves
+Mittens
+Beanie
+Cap
+Top hat
+
+Helmet
+Breastplate
+Gauntlets
+Chainmail
+Vambrace
+
+Boots
+Sneakers
+Sandals
+Slippers
+Shoes
+Flippers
+Ski
